@@ -1,0 +1,60 @@
+[
+  {
+    "title": "YT Clone",
+    "image": "./projectImages/team.png",
+    "description": "This is a YouTube clone built using React framework, Material UI, and Rapid API for API integration. The app is fully responsive and dynamic, meaning it can adapt to different screen sizes and is able to display dynamic content.",
+    "technologies": "React | Material UI | Rapid API",
+    "github": "https://github.com/abhijeet-0019/tube-mate-react",
+    "deployed": "https://cosmic-starburst-75bd73.netlify.app/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "Quiz Master",
+    "image": "./projectImages/quiz.png",
+    "technologies": "MERN Stack",
+    "description": "This is a simple Quiz Web Application developed using the MERN stack. The application allows users to take a quiz and get instant feedback on their performance.",
+    "github": "https://github.com/abhijeet-0019/mern-quiz-app",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Task Tracker",
+    "image": "./projectImages/bike.png",
+    "technologies": "React JS | JSON Server | CSS",
+    "description": "This is a task tracker application built using ReactJS and JSON Server. The application allows users to create, update, and delete tasks in a dynamic user interface.",
+    "github": "https://github.com/abhijeet-0019/task-tracker-app-react",
+    "deployed": "https://6416959adf97a66f1f2dfa59--storied-gnome-744494.netlify.app/",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "HTTP web-crawler",
+    "image": "./projectImages/weather.png",
+    "technologies": "HTTP | JavaScript",
+    "description": "The web crawler is designed to crawl the web in a recursive manner. Starting from a specified URL, the crawler fetches the contents of the page and extracts all the links from it. These links are then added to the list of URLs that need to be crawled.",
+    "github": "https://github.com/abhijeet-0019/webcrawler-http",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "NFT App UI",
+    "image": "./projectImages/P1.png",
+    "description": "This project is a simple NFT marketplace UI built using React Native. The app allows users to browse and purchase NFTs from various artists.",
+    "technologies": "React Native",
+    "github": "https://github.com/abhijeet-0019/nft-app-react-native-ui",
+    "bgcolor": "#ffcc33",
+    "id": "1"
+  },
+
+  {
+    "title": "VisualGuardian",
+    "image": "./projectImages/planner.png",
+    "technologies": "Python | OpenCV",
+    "description": "ESRC-OpenCV-Project is an OpenCV and Python-based application that offers motion, human, and face detection capabilities along with image enhancement. Its features enable users to detect movements and changes in the environment, track individuals, recognize faces, and enhance image quality.",
+    "github": "https://github.com/abhijeet-0019/ESRC-OpenCV-Project",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  }
+]
