@@ -15,7 +15,6 @@ The site features a clean design, intuitive navigation, and detailed project inf
 - React.js
 - HTML5 & CSS3
 - JavaScript
-- Responsive Design
 
 ## Author
 
